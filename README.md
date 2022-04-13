@@ -28,13 +28,11 @@ SSL server/client programming using OpenSSL in C
 
 ## How to run
 
-1. Generate certificate
-
-   `cd build`  
-
-   `openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout mycert.pem -out mycert.pem`
-
-2. Start server 
+jfldsjflkdsjlfkjsdlkfjdslkf
+fjdsklfjlksdjfklsdjflsdkjf
+dlkfjslkdjflkdsjflksd
+dslfjskdljflksdjflksd
+. Start server 
 
    `cd build`
 
