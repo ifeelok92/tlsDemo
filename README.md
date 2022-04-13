@@ -47,3 +47,8 @@ SSL server/client programming using OpenSSL in C
     `./tlsDemoClient 127.0.0.1 <port_number>`
 
 NOTE: One must start server and client in different terminals
+
+int main()
+{
+	cout<<"hi"<<endl;
+}
