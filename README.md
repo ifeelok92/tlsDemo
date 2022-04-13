@@ -51,4 +51,5 @@ NOTE: One must start server and client in different terminals
 int main()
 {
 	cout<<"hi"<<endl;
+	return 0;
 }
